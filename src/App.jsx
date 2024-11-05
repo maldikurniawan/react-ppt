@@ -24,7 +24,7 @@ export default function App() {
         <div className="block sm:hidden">
           {/* Display on smaller screens */}
           <iframe
-            src="https://drive.google.com/file/d/1E14V9nDoBpfCWi17TVtQ2jBSoYW19R6p/preview"
+            src="https://drive.google.com/file/d/1CXmIA7k3Ws4KuwW6uepv7r5JcGVnaz-T/preview"
             width="320"
             height="640"
             allow="autoplay"
@@ -33,7 +33,7 @@ export default function App() {
         <div className="hidden sm:block lg:hidden">
           {/* Display on medium screens */}
           <iframe
-            src="https://drive.google.com/file/d/1E14V9nDoBpfCWi17TVtQ2jBSoYW19R6p/preview"
+            src="https://drive.google.com/file/d/1CXmIA7k3Ws4KuwW6uepv7r5JcGVnaz-T/preview"
             width="640"
             height="480"
             allow="autoplay"
@@ -42,7 +42,7 @@ export default function App() {
         <div className="hidden lg:block">
           {/* Display on larger screens */}
           <iframe
-            src="https://drive.google.com/file/d/1E14V9nDoBpfCWi17TVtQ2jBSoYW19R6p/preview"
+            src="https://drive.google.com/file/d/1CXmIA7k3Ws4KuwW6uepv7r5JcGVnaz-T/preview"
             width="800"
             height="600"
             allow="autoplay"
