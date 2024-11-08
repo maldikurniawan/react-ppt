@@ -6,38 +6,38 @@
 
 @keyframes animateCloud {
   0% {
-    margin-left: -100%;
+    margin-left: -150%;
   }
 
   100% {
-    margin-left: 100%;
+    margin-left: 150%;
   }
 }
 
 /* ANIMATIONS */
 
 .x1 {
-  animation: animateCloud 35s ease-in-out infinite;
+  animation: animateCloud 35s linear infinite;
   transform: scale(0.3);
 }
 
 .x2 {
-  animation: animateCloud 20s ease-in-out infinite;
+  animation: animateCloud 20s linear infinite;
   transform: scale(0.4);
 }
 
 .x3 {
-  animation: animateCloud 30s ease-in-out infinite;
+  animation: animateCloud 30s linear infinite;
   transform: scale(0.5);
 }
 
 .x4 {
-  animation: animateCloud 15s ease-in-out infinite;
+  animation: animateCloud 15s linear infinite;
   transform: scale(0.3);
 }
 
 .x5 {
-  animation: animateCloud 25s ease-in-out infinite;
+  animation: animateCloud 25s linear infinite;
   transform: scale(0.55);
 }
 
